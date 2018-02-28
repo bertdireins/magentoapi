@@ -55,7 +55,7 @@ var protos = {
   update: {
     mandatory: 'addressId,addressData',
     modifiers: {
-      addressData: ensureArray
+      //addressData: ensureArray
     }
   }
 };
